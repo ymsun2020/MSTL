@@ -1,4 +1,3 @@
-# MSTL
 # Multi-source Templates Learning for Real-time Aerial Object Tracking
 
 This is the official code for the paper "Multi-source Templates Learning for Real-time Aerial Object Tracking".In this work, we present an efficient Aerial Object Tracking method via Multi-source Templates named MSTL. 
