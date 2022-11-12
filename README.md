@@ -70,8 +70,7 @@ python tracking/test.py MSTL MSTL --dataset uavd
 
 ### Trained model and Row results
 
-The trained models and the raw tracking results are provided in the [model zoo](MODEL_ZOO.md)
-
+The trained models and the raw tracking results are provided
 
 
 ## Acknowledgement
