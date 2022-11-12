@@ -12,7 +12,7 @@ Our tracker can run **~200fps on GPU, ~100fps on CPU, and ~20** on Nvidia jetson
 
 ### Demo
 
-![demo_gif](./assets/demo_gif.gif)
+![demo_gif](demo_gif.gif)
 
 ## Quick Start
 
