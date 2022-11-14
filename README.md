@@ -8,6 +8,13 @@ This is the official code for the paper "Multi-source Templates Learning for Rea
 
 Our tracker can run **~200fps on GPU, ~100fps on CPU, and ~20** on Nvidia jetson-xavier-nx platform. After using ONNX to accelerate, the speed can reach **509** fps on GPU.
 
+### Strong performance
+
+|         | Year      | Speed | UAV123 | UAV123@10fps | UAV20L |
+| ------- | --------- | ----- | ------ | ------------ | ------ |
+| Ours    |           | 209   | 86.48  | 87.10        | 86.24  |
+| TCTrack | CVPR 2022 | 128   | 80.05  | 77.39        | 67.20  |
+| HIFT    | ICCV 2021 | 137   | 78.70  | 74.87        | 76.32  |
 
 
 ### Demo
